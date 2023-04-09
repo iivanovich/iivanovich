@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Igor<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">𝙹𝚞𝚗𝚒𝚘𝚛 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
 <!--
 **iivanovich/iivanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
