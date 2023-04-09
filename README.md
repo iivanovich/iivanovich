@@ -1,5 +1,5 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙸𝚐𝚘𝚛<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝙹𝚞𝚗𝚒𝚘𝚛+𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝙹𝚞𝚗𝚒𝚘𝚛+𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛)](https://git.io/typing-svg)
 
 <!--
 **iivanovich/iivanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
