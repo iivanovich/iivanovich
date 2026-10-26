@@ -1,7 +1,5 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙸𝚐𝚘𝚛<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=310&lines=JUNIOR+FRONTEND+DEVELOPER" alt="Typing SVG" /></a></h3>
-<h3>- 🌱 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h3>
-<h3>- 🌍 ɪ ꜱᴘᴇᴀᴋ ʀᴜꜱꜱɪᴀɴ (ɴᴀᴛɪᴠᴇ), ᴇɴɢʟɪꜱʜ (A2)</h3>
+
 <br>
 
 <h3>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
